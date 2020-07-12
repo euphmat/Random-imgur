@@ -1,3 +1,5 @@
 # Random-imgur
+This is a web page for displaying random images
 
-![](https://i.imgur.com/nNMMTIo.jpg)
+## Try it out
+[https://euphmat.github.io/Random-imgur/](https://euphmat.github.io/Random-imgur/)
